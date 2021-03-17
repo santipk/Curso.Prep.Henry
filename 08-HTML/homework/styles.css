@@ -1,0 +1,19 @@
+
+            
+            #thirdDiv{
+                background-color: rgb(80, 20, 52);
+                height: 600px;
+                width: 500px;
+                padding: 50px;
+                border: 80px rgb(255, 0, 0);
+                
+            
+            }
+            #spanId{
+                height: 18px;
+                margin: 50px;
+            }
+		
+		body{
+                background-color: cornflowerblue;
+            }
